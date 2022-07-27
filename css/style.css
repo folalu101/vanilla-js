@@ -1,0 +1,7 @@
+.accordion {
+    display: none;
+}
+
+.accordion.active {
+    display: block;
+}
